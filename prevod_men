@@ -3,3 +3,4 @@ kurz = float(input("Zadejte kurz eura v Kč: "))
 
 eura = czk / kurz
 print(f"Částka v euro: {eura:.2f} EUR")
+ 
